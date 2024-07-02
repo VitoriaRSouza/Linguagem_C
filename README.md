@@ -1,2 +1,2 @@
 # Linguagem_C
- Projetos Desenvolvidos na linguagem C++
+ Projetos Desenvolvidos na linguagem C++ e C#.
